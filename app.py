@@ -1,6 +1,6 @@
 """
 Shopper Spectrum — Customer Segmentation & Product Recommendations
-Streamlit App  ·  2022-2023 E-Commerce Dataset
+Streamlit App  ·  2022-2025 E-Commerce Dataset
 """
 
 import streamlit as st
