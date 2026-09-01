@@ -228,7 +228,7 @@ page = page.split("  ", 1)[1]   # strip icon prefix
 # PAGE: OVERVIEW
 # ═══════════════════════════════════════════════════════════════════════════════
 if page == "Overview":
-    st.markdown('<p class="section-eyebrow">Shopper Spectrum</p>', unsafe_allow_html=True)
+    st.markdown('<p class="section-eyebrow">Shopper Spectrum..Fahad</p>', unsafe_allow_html=True)
     st.title("E-Commerce Customer Intelligence")
     st.markdown(
         "Unsupervised ML pipeline combining **RFM analysis**, **KMeans clustering**, "
