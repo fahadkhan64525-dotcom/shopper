@@ -202,7 +202,7 @@ def seg_badge(seg):
 # SIDEBAR
 # ═══════════════════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.markdown("## 🛍️ Shopper Spectrum use for shop.")
+    st.markdown("## 🛍️ Shopper Spectrum use for shop.Fahad")
     st.markdown(
         '<p style="color:#8B949E;font-size:0.82rem;">E-Commerce Analytics Platform<br>'
         'Dataset: 2022–2023  ·  ~800 customers</p>',
